@@ -2,4 +2,7 @@
 Repo with some of my 3D modeling work
 
 ## Scissors
-[![A Video](https://github.com/VitoPalm/Photorealistic-3D-Models/raw/refs/heads/main/scissors/Render-2026-1.png)](https://github.com/VitoPalm/Photorealistic-3D-Models/raw/refs/heads/main/scissors/scissors_video.mp4)
+
+
+https://github.com/user-attachments/assets/97aeebfe-32c5-40ec-a37b-a7335d57f976
+
