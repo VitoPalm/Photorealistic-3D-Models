@@ -2,7 +2,7 @@
 Repo with some of my 3D modeling work
 
 ## Scissors
-![scissors_video](https://github.com/user-attachments/assets/97aeebfe-32c5-40ec-a37b-a7335d57f976)
+<video src="https://github.com/user-attachments/assets/97aeebfe-32c5-40ec-a37b-a7335d57f976"></video>
 ![scissors](https://media.githubusercontent.com/media/VitoPalm/Photorealistic-3D-Models/main/scissors/Render-2026-1.png)
 (different textures for the handles)
 
